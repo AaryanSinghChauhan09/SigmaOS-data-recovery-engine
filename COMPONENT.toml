@@ -3,7 +3,7 @@ name = "SigmaOS-data-recovery-engine"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-recovery-engine component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
